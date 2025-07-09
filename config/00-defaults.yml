@@ -1,0 +1,4 @@
+/hri_face_speaking_detector:
+  ros__parameters:
+    # sequence length
+    sequence_length: 16

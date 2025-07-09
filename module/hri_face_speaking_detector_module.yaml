@@ -1,0 +1,2 @@
+hri_face_speaking_detector:
+  launch: "hri_face_speaking_detector face_speaking_detector.launch.py"
